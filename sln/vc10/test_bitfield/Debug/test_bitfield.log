@@ -1,0 +1,22 @@
+﻿Сборка начата 16.10.2016 14:24:58.
+     1>Проект "C:\Users\Ioann\Desktop\Работа\mp2-lab1-set\sln\vc10\test_bitfield\test_bitfield.vcxproj" в узле 2 (целевые объекты Build).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I../../../gtest /I../../../include /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt ..\..\..\test\test_main.cpp ..\..\..\test\test_tbitfield.cpp ..\..\..\test\test_tset.cpp
+         test_tset.cpp
+         test_tbitfield.cpp
+         test_main.cpp
+         Создание кода...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Ioann\Desktop\Работа\mp2-lab1-set\sln\vc10\Debug\test_bitfield.exe" /INCREMENTAL /NOLOGO /LIBPATH:../Debug gtest.lib bitfield.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Ioann\Desktop\Работа\mp2-lab1-set\sln\vc10\Debug\test_bitfield.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Ioann\Desktop\Работа\mp2-lab1-set\sln\vc10\Debug\test_bitfield.lib" /MACHINE:X86 /SAFESEH Debug\test_main.obj
+         Debug\test_tbitfield.obj
+         Debug\test_tset.obj
+         "C:\Users\Ioann\Desktop\Работа\mp2-lab1-set\sln\vc10\Debug\gtest.lib"
+         "C:\Users\Ioann\Desktop\Работа\mp2-lab1-set\sln\vc10\Debug\bitfield.lib"
+         LINK : не найден или не выполнена сборка C:\Users\Ioann\Desktop\Работа\mp2-lab1-set\sln\vc10\Debug\test_bitfield.exe при последней инкрементной компоновке; выполняется полная компоновка
+     1>test_main.obj : warning LNK4075: не учитывается "/EDITANDCONTINUE" из-за спецификации "/SAFESEH"
+         test_bitfield.vcxproj -> C:\Users\Ioann\Desktop\Работа\mp2-lab1-set\sln\vc10\Debug\test_bitfield.exe
+     1>Сборка проекта "C:\Users\Ioann\Desktop\Работа\mp2-lab1-set\sln\vc10\test_bitfield\test_bitfield.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+
+Затраченное время: 00:00:02.63

@@ -1,0 +1,13 @@
+﻿Сборка начата 16.10.2016 14:24:56.
+     1>Проект "C:\Users\Ioann\Desktop\Работа\mp2-lab1-set\sln\vc10\gtest\gtest.vcxproj" в узле 2 (целевые объекты Build).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _USRDLL /D GTEST_EXPORTS /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt "..\..\..\gtest\gtest-all.cc"
+         gtest-all.cc
+       Lib:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\Lib.exe /OUT:"C:\Users\Ioann\Desktop\Работа\mp2-lab1-set\sln\vc10\Debug\gtest.lib" /NOLOGO "Debug\gtest-all.obj"
+         gtest.vcxproj -> C:\Users\Ioann\Desktop\Работа\mp2-lab1-set\sln\vc10\Debug\gtest.lib
+     1>Сборка проекта "C:\Users\Ioann\Desktop\Работа\mp2-lab1-set\sln\vc10\gtest\gtest.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+
+Затраченное время: 00:00:01.94
